@@ -21,7 +21,6 @@
 - https://github.com/ossu/computer-science
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/kamranahmedse/developer-roadmap
-- https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - https://github.com/you-dont-need/You-Dont-Need.com
 - https://github.com/SaraVieira/awesome-talks
@@ -78,7 +77,6 @@
 - https://github.com/powerline/fonts
 
 ## Frontend
-- https://github.com/h5bp/Front-end-Developer-Interview-Questions
 - https://github.com/Valve/fingerprintjs2
 - https://github.com/facebook/prepack
 - https://github.com/vasanthk/react-bits
@@ -106,6 +104,12 @@
 - https://github.com/quchen/articles
 - https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
 - http://learnyouahaskell.com/
+
+## Interview
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/kdn251/interviews
+- https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers 
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 ## JavaScript
 - https://github.com/getify/You-Dont-Know-JS
