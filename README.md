@@ -1,3 +1,15 @@
+## Awesomes
+- https://github.com/sindresorhus/awesome
+- https://github.com/willianjusten/awesome-audio-visualization
+- https://github.com/heynickc/awesome-ddd
+- https://github.com/DovAmir/awesome-design-patterns
+- https://github.com/isRuslan/awesome-elm
+- https://github.com/nayafia/awesome-maintainers
+- https://github.com/kgryte/awesome-peer-to-peer
+- https://github.com/myles/awesome-static-generators
+- https://github.com/SaraVieira/awesome-talks
+- https://github.com/mbasso/awesome-wasm
+
 ## AI / Deep Learning / Machine Learning
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/kjaisingh/high-school-guide-to-machine-learning
