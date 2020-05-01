@@ -45,6 +45,7 @@
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/sindresorhus/awesome
 - https://github.com/tuvtran/project-based-learning
+- https://github.com/EbookFoundation/free-programming-books
 
 ## Algorithms 
 - https://github.com/trekhleb/javascript-algorithms
