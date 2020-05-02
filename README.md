@@ -126,6 +126,7 @@
 
 ## Java
 - https://java-programming.mooc.fi/
+- https://hi.hyperskill.org/
 
 ## JavaScript
 - https://github.com/getify/You-Dont-Know-JS
@@ -170,6 +171,9 @@
 - https://github.com/substack/stream-handbook
 - https://github.com/dominictarr/event-stream
 - https://github.com/i0natan/nodebestpractices
+
+## Programming
+- https://hi.hyperskill.org/
 
 ## SQL
 - https://sqlbolt.com/
