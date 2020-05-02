@@ -124,6 +124,9 @@
 - https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers 
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
+## Java
+- https://java-programming.mooc.fi/
+
 ## JavaScript
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/trekhleb/javascript-algorithms
@@ -167,6 +170,10 @@
 - https://github.com/substack/stream-handbook
 - https://github.com/dominictarr/event-stream
 - https://github.com/i0natan/nodebestpractices
+
+## SQL
+- https://sqlbolt.com/
+- https://www.postgresqltutorial.com/
 
 ## Tools
 - https://github.com/wting/autojump
