@@ -3,6 +3,7 @@
 - https://github.com/willianjusten/awesome-audio-visualization
 - https://github.com/heynickc/awesome-ddd
 - https://github.com/DovAmir/awesome-design-patterns
+- https://github.com/awesome-soft/awesome-devops
 - https://github.com/isRuslan/awesome-elm
 - https://github.com/nayafia/awesome-maintainers
 - https://github.com/kgryte/awesome-peer-to-peer
