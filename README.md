@@ -1,6 +1,7 @@
 ## Awesomes
 - https://github.com/sindresorhus/awesome
 - https://github.com/willianjusten/awesome-audio-visualization
+- https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/heynickc/awesome-ddd
 - https://github.com/DovAmir/awesome-design-patterns
 - https://github.com/awesome-soft/awesome-devops
