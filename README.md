@@ -176,6 +176,7 @@
 
 ## Programming
 - https://hi.hyperskill.org/
+- https://github.com/jeanqasaur/learn-programming-languages
 
 ## SQL
 - https://sqlbolt.com/
