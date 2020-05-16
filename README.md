@@ -80,6 +80,10 @@
 ## Design
 - https://github.com/qrohlf/trianglify
 
+## Devops
+- https://github.com/awesome-soft/awesome-devops
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 ## Editor
 - https://github.com/be5invis/Iosevka
 
