@@ -84,8 +84,9 @@
 - https://github.com/awesome-soft/awesome-devops
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
-## Drawing / Art
+## Drawing / Art / Pixel Art
 - https://drawabox.com
+- https://lospec.com/
 
 ## Editor
 - https://github.com/be5invis/Iosevka
