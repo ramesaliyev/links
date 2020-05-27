@@ -161,6 +161,9 @@
 - http://tracesof.net/uebersicht/
 - https://github.com/serhii-londar/open-source-mac-os-apps
 
+## Marketing
+- https://github.com/LisaDziuba/Marketing-for-Engineers
+
 ## Math
 - https://github.com/hmemcpy/milewski-ctfp-pdf
 - http://immersivemath.com
