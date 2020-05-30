@@ -193,6 +193,10 @@
 ## SQL
 - https://sqlbolt.com/
 - https://www.postgresqltutorial.com/
+- https://mode.com/sql-tutorial/introduction-to-sql/
+
+## Static Site Generation
+- https://www.gatsbyjs.org/
 
 ## Tools
 - https://github.com/wting/autojump
