@@ -27,6 +27,7 @@
 - https://github.com/dennybritz/reinforcement-learning
 - https://github.com/lexfridman/mit-deep-learning
 - https://github.com/googlecreativelab/quickdraw-dataset
+- https://developers.google.com/machine-learning/crash-course
 
 ## Being a Better Developer
 - https://github.com/danistefanovic/build-your-own-x
