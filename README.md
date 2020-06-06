@@ -141,6 +141,11 @@
 ## Java
 - https://java-programming.mooc.fi/
 - https://hi.hyperskill.org/
+- https://www.udemy.com/course/java-the-complete-java-developer-course/
+- https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997
+- https://www.amazon.com/Core-Java-I-Fundamentals-11th-Horstmann/dp/0135166306
+- https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314/
+- https://www.amazon.com/Java-Complete-Reference-Eleventh/dp/1260440230
 
 ## JavaScript
 - https://github.com/getify/You-Dont-Know-JS
