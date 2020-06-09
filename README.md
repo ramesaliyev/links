@@ -51,6 +51,7 @@
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/justinamiller/SoftwareArchitect
+- https://developers.google.com/tech-writing
 
 ## Algorithms 
 - https://github.com/trekhleb/javascript-algorithms
