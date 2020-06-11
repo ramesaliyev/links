@@ -207,6 +207,7 @@
 
 ## Static Site Generation
 - https://www.gatsbyjs.org/
+- https://jaspervdj.be/hakyll/
 
 ## Tools
 - https://github.com/wting/autojump
