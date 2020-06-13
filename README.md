@@ -213,6 +213,7 @@
 - https://github.com/wting/autojump
 - https://github.com/nvbn/thefuck
 - https://github.com/kyleneideck/BackgroundMusic
+- https://raindrop.io/
 
 ## Visualization
 - https://github.com/willianjusten/awesome-audio-visualization
