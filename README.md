@@ -7,12 +7,14 @@
 - https://github.com/awesome-soft/awesome-devops
 - https://github.com/isRuslan/awesome-elm
 - https://github.com/nayafia/awesome-maintainers
+- https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/kgryte/awesome-peer-to-peer
 - https://github.com/myles/awesome-static-generators
 - https://github.com/SaraVieira/awesome-talks
 - https://github.com/mbasso/awesome-wasm
 
 ## AI / Deep Learning / Machine Learning
+- https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/kjaisingh/high-school-guide-to-machine-learning
 - https://github.com/ethen8181/machine-learning
