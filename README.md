@@ -13,7 +13,7 @@
 - https://github.com/SaraVieira/awesome-talks
 - https://github.com/mbasso/awesome-wasm
 
-## AI / Deep Learning / Machine Learning
+## AI / Deep Learning / Machine Learning / Data Science
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/kjaisingh/high-school-guide-to-machine-learning
@@ -32,6 +32,7 @@
 - https://developers.google.com/machine-learning/crash-course
 - https://courses.analyticsvidhya.com/
 - https://github.com/bfortuner/ml-glossary
+- https://www.datacamp.com/
 
 ## Being a Better Developer
 - https://github.com/danistefanovic/build-your-own-x
