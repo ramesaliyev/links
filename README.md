@@ -33,6 +33,7 @@
 - https://courses.analyticsvidhya.com/
 - https://github.com/bfortuner/ml-glossary
 - https://www.datacamp.com/
+- https://online-learning.harvard.edu/subject/data-science
 
 ## Being a Better Developer
 - https://github.com/danistefanovic/build-your-own-x
