@@ -1,5 +1,6 @@
 ## Awesomes
 - https://github.com/sindresorhus/awesome
+- https://github.com/matiassingers/awesome-readme
 - https://github.com/willianjusten/awesome-audio-visualization
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/heynickc/awesome-ddd
@@ -34,6 +35,7 @@
 - https://github.com/bfortuner/ml-glossary
 - https://www.datacamp.com/
 - https://online-learning.harvard.edu/subject/data-science
+- https://github.com/afshinea/stanford-cs-221-artificial-intelligence
 
 ## Being a Better Developer
 - https://github.com/danistefanovic/build-your-own-x
