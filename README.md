@@ -13,9 +13,11 @@
 - https://github.com/myles/awesome-static-generators
 - https://github.com/SaraVieira/awesome-talks
 - https://github.com/mbasso/awesome-wasm
+- https://github.com/EthicalML/awesome-production-machine-learning
 
 ## AI / Deep Learning / Machine Learning / Data Science
 - https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/kjaisingh/high-school-guide-to-machine-learning
 - https://github.com/ethen8181/machine-learning
