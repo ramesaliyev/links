@@ -38,6 +38,7 @@
 - https://www.datacamp.com/
 - https://online-learning.harvard.edu/subject/data-science
 - https://github.com/afshinea/stanford-cs-221-artificial-intelligence
+- https://github.com/janishar/mit-deep-learning-book-pdf
 
 ## Being a Better Developer
 - https://github.com/danistefanovic/build-your-own-x
